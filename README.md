@@ -1,2 +1,2 @@
 ﻿# Gymnasiearbete-Webbrendering
- ## Kod för hemsidorna som används i en undersökning.
+ Kod för hemsidorna som används i en undersökning.
